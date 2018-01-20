@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info
+*.manifest
+*.spec
+*.log
+
+# django
+.static_storage/
+.media/
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+.idea
+dist
+build
